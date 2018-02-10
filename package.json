@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AustinTing/one-night-kill#readme",
   "dependencies": {
+    "dotenv": "^5.0.0",
     "linebot": "^1.4.1"
   }
 }
