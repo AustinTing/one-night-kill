@@ -1,0 +1,22 @@
+{
+  "name": "one-night-kill",
+  "version": "1.0.0",
+  "description": "A Game Chatbot for LINE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinTing/one-night-kill.git"
+  },
+  "author": "Austin Ting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AustinTing/one-night-kill/issues"
+  },
+  "homepage": "https://github.com/AustinTing/one-night-kill#readme",
+  "dependencies": {
+    "linebot": "^1.4.1"
+  }
+}
